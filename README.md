@@ -3,7 +3,6 @@
 # 操作指南
 
 >此SDK仅适用于以下产品型号:
-> - LDROBOT LiDAR LD06
 > - LDROBOT LiDAR LD19
 
 ## 0. 获取雷达的ROS2功能包
